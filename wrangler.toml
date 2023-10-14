@@ -1,3 +1,4 @@
 name = "malahayati-discord-bot"
 main = "./src/index.ts"
 compatibility_date = "2022-05-03"
+account_id = "8fda878e695582341e9736656cb947ad"
