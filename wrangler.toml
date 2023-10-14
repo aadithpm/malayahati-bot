@@ -2,3 +2,7 @@ name = "malahayati-discord-bot"
 main = "./src/index.ts"
 compatibility_date = "2022-05-03"
 account_id = "8fda878e695582341e9736656cb947ad"
+
+[vars]
+DISCORD_APP_ID = "990710508162273340"
+DISCORD_PUBLIC_KEY = "b1f0257a29e1498b3e205008fd60ff04308fe3425f0d386671fe771b44a44a01"
