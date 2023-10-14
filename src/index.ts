@@ -7,6 +7,6 @@ export interface EnvVar {
 
 export default {
   async fetch (request: Request, env: EnvVar) {
-    return new Response(`request method: ${request.method} ${env.DISCORD_APP_ID}`)
+    return new Response(`request method: ${request.method}`)
   }
 }
