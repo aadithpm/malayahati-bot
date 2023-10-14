@@ -1,5 +1,3 @@
-import 'dotenv/config'
-
 export interface EnvVar {
   // stored in Workers env vars
   DISCORD_TOKEN: string
